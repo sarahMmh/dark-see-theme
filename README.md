@@ -1,6 +1,4 @@
-# juejin 默认主题
-
-主题列表：https://github.com/xitu/juejin-markdown-themes
+# 掘金深色海洋主题
 
 ## License
 
